@@ -1,7 +1,7 @@
 // Created by: Janet
 // Created on: Sep 2020
 //
-// This program finds the volume of a pyramid
+// This program finds the volume of a sphere
 
 package main
 
