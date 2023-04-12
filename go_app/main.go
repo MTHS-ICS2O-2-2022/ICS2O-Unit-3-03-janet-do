@@ -1,7 +1,14 @@
+// Created by: Janet
+// Created on: Sep 2020
+//
+// This program finds the volume of a pyramid
+
 package main
 
-import "fmt"
-import "math"
+import (
+	"fmt"
+	"math"
+)
 
 func main() {
 	// This function finds the volume of a sphere
