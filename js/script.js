@@ -2,8 +2,10 @@
 //
 // Created by: Janet Do
 // Created on: Sep 2020
-// This file generates the area of a triangle
+// This file generates the volume of a sphere
+
 "use strict"
+
 function calculate() {
   // input
   const radius = parseInt(document.getElementById("radius").value)
